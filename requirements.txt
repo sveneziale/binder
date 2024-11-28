@@ -5,7 +5,7 @@ ipykernel
 jupyter
 numpy
 pandas
-pytorch
+torch
 torchaudio
 torchvision
  
